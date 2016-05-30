@@ -1,0 +1,3 @@
+
+class DoseUnsuccessfulException(Exception):
+    pass
